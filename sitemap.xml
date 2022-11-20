@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lin-simple.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/categories/package.json</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/categories/node_modules/hexo-pagination/package.json</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/categories/node_modules/hexo-generator-tag/node_modules/hexo-pagination/package.json</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/categories/node_modules/hexo-generator-tag/package.json</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lin-simple.github.io/categories/index.html</loc>
     
     <lastmod>2022-11-20</lastmod>
@@ -23,6 +68,15 @@
     <loc>https://lin-simple.github.io/2022/10/21/hello-world/</loc>
     
     <lastmod>2022-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/categories/node_modules/hexo-generator-tag/README.html</loc>
+    
+    <lastmod>1985-10-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
