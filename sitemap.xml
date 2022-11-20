@@ -2,52 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lin-simple.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lin-simple.github.io/categories/package.json</loc>
-    
-    <lastmod>2022-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lin-simple.github.io/categories/node_modules/hexo-pagination/package.json</loc>
-    
-    <lastmod>2022-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lin-simple.github.io/categories/node_modules/hexo-generator-tag/node_modules/hexo-pagination/package.json</loc>
-    
-    <lastmod>2022-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lin-simple.github.io/categories/node_modules/hexo-generator-tag/package.json</loc>
-    
-    <lastmod>2022-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lin-simple.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/tags/index.html</loc>
     
     <lastmod>2022-11-20</lastmod>
     
@@ -58,7 +22,7 @@
   <url>
     <loc>https://lin-simple.github.io/2022/10/23/This-is-the-first-article/</loc>
     
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-11-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -68,15 +32,6 @@
     <loc>https://lin-simple.github.io/2022/10/21/hello-world/</loc>
     
     <lastmod>2022-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lin-simple.github.io/categories/node_modules/hexo-generator-tag/README.html</loc>
-    
-    <lastmod>1985-10-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,12 +47,26 @@
 
   
   <url>
-    <loc>https://lin-simple.github.io/tags/first/</loc>
+    <loc>https://lin-simple.github.io/tags/Test/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lin-simple.github.io/tags/First/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://lin-simple.github.io/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

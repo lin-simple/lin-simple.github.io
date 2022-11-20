@@ -6,7 +6,7 @@
   <link href="https://lin-simple.github.io/atom.xml" rel="self"/>
   
   <link href="https://lin-simple.github.io/"/>
-  <updated>2022-10-23T13:23:59.505Z</updated>
+  <updated>2022-11-20T02:55:46.584Z</updated>
   <id>https://lin-simple.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lin-simple.github.io/2022/10/23/This-is-the-first-article/"/>
     <id>https://lin-simple.github.io/2022/10/23/This-is-the-first-article/</id>
     <published>2022-10-23T13:21:42.000Z</published>
-    <updated>2022-10-23T13:23:59.505Z</updated>
+    <updated>2022-11-20T02:55:46.584Z</updated>
     
     <content type="html"><![CDATA[<p>This is the first article in my blog, it’s so goooood.<br>I will continue to share my simple exeperience here.</p>]]></content>
     
@@ -34,8 +34,12 @@
     
     
     
+    <category term="记录" scheme="https://lin-simple.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
     
-    <category term="first" scheme="https://lin-simple.github.io/tags/first/"/>
+    
+    <category term="Test" scheme="https://lin-simple.github.io/tags/Test/"/>
+    
+    <category term="First" scheme="https://lin-simple.github.io/tags/First/"/>
     
   </entry>
   
